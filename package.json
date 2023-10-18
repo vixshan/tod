@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "mongoose": "^7.6.3"
+  },
+  "name": "tod",
+  "description": "A simple TOD library for use with most node.js libraries, like discord.js",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "truth",
+    "dare",
+    "teuth",
+    "or",
+    "dare"
+  ],
+  "author": "vikshan",
+  "license": "ISC"
+}
